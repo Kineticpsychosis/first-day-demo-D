@@ -1,4 +1,4 @@
-# first-day-demo-D
+# first-day-repo-D
 ## My Practice
 
 ### LETS GOOOOO!
